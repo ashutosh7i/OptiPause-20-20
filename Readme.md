@@ -49,4 +49,21 @@ To sleep for 1 hour, you can use ```WScript.Sleep(60 * 60 * 1000)```.
 To sleep for 30 minutes, you can use ```WScript.Sleep(30 * 60 * 1000)```.
     And so on.
 
-## Debug-
+## How to use-
+1. Download the latest release from the release tab.
+2. Extract the folder.
+3. There are 2 files ```OptiPause-20-20.vbs``` & ```HTA.hta```
+4. Run ```OptiPause-20-20.vbs``` and you are Good to go, the hta file is for the gui.
+* in later versions i will combine both files to a single file for easy operaion.
+5. Additionally you can add this ```OptiPause-20-20.vbs``` to startup, so it starts automatically at start.
+=> press the ```Windows logo+ R```, type ```shell:startup```, then select OK.
+This opens the Startup folder. Copy and paste the shortcut/file ```OptiPause-20-20.vbs``` here.
+
+## How to stop-
+You can stop ```OptiPause-20-20.vbs``` by going to terminal and End-task.
+=> press ```ctrl+shift+esc``` select the Process and click End-task.
+
+## Contribution-
+This project is open to Contribution, Create a issue, Create a PR and it will be merged😉.
+
+Happy Hacking!
