@@ -9,7 +9,7 @@ While True
     Sapi.speak "It's time to take a break. Look at something 20 feet away for 20 seconds."
 
     'Invoke the HTA script to display the image
-    wshShell.Run "test.hta", 1, False
+    wshShell.Run "HTA.hta", 1, False
 
     Dim Duration
     Duration = 20
