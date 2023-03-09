@@ -1,3 +1,4 @@
+## Time Spent- [![wakatime](https://wakatime.com/badge/user/62850a07-caf8-470f-86a7-660093b4f5b4/project/c59e79e2-ea7e-4b23-a2dc-8248dab0679b.svg)](https://wakatime.com/badge/user/62850a07-caf8-470f-86a7-660093b4f5b4/project/c59e79e2-ea7e-4b23-a2dc-8248dab0679b)
 
 ### i =>
 *so i am making a new project using VBS, a software that runs automatically in the bg, in every 20 minuts, it prompts the user to view at something 20 feet away for 20 seconds.
